@@ -1,0 +1,1 @@
+pyinstaller.exe --icon=LOGO_WH.ico WIP_Storage_REV_10_SAP_Clean.py
